@@ -3,10 +3,10 @@
 
 # Применение
 ~~~terminal
-ruby password_fenerator.rb [options]
+python password_fenerator.py [options]
 ~~~
 
-> В качестве параметров передается длина генерируемого пароля
+> В качестве параметров передается длина генерируемого пароля и количество генерируемых паролей
 
 # Пример
-![image](https://user-images.githubusercontent.com/47382305/172066284-8bf9a34f-9c18-482f-af1f-0c9ce2187728.png)
+![image](https://user-images.githubusercontent.com/47382305/172731671-1a238cfe-4b9c-44c8-9b9b-eaa1f3e61994.png)
